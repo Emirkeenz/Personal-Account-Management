@@ -64,3 +64,7 @@ Represents an amount of money for a transaction. Each `Amount` object records th
 An enumeration that defines the two types of transactions:  
 - **DEPOSIT**: Represents a deposit transaction.
 - **WITHDRAWAL**: Represents a withdrawal transaction.
+
+## UML Diagram
+Below is a UML diagram of the system created using Mermaid syntax:
+<img width="423" alt="Снимок экрана 2024-09-26 в 14 51 50" src="https://github.com/user-attachments/assets/4cc181fe-27f5-4673-884a-6878a8ab890b">
